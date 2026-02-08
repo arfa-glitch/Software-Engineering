@@ -1,0 +1,14 @@
+git config --global user.name "arfa-glitch"
+git config --global user.email "saifarfan07@gmail.com"
+
+git init
+
+git remote add origin https://github.com/arfa-glitch/Software-Engineering.git
+
+git push -u origin main
+
+git add Text.txt
+
+git commit m- "1st commit"
+
+git push -u origin main
